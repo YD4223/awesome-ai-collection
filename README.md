@@ -36,6 +36,7 @@ Discover and explore the latest AI tools across different categories with these 
 ###  Multi-AI Web Sites 
 Comprehensive platforms covering all AI tool categories.
 
+-- [AI Hub](https://ai999999.top) - An open-source navigation site collecting 1000 AI tools, covering 16 categories
 - [AIToolHunt](https://www.aitoolhunt.com) - Curated collection with daily updates across 50+ categories
 - [Futurepedia](https://www.futurepedia.io) - 4000+ AI tools, daily updates, voting system
 - [Toolify](https://www.toolify.ai) - 27,000+ tools in 459 categories, powerful search
