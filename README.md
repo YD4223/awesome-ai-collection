@@ -255,6 +255,7 @@ Stay informed about the latest AI developments.
 - [VentureBeat AI](https://venturebeat.com/category/ai) - AI business news
 - [Ars Technica AI](https://arstechnica.com/tag/artificial-intelligence) - Technical AI coverage
 - [Hacker News AI](https://news.ycombinator.com) - Tech and AI news, discussions
+- [Calder Brief](https://calder-brief.pages.dev/ai-hub) - AI news and analysis
 
 **Newsletters**
 - [The Sequence](https://thesequence.substack.com) - ML and AI insights
